@@ -1,4 +1,4 @@
-package Ex_01_JavaBasics;
+package ex_01_JavaBasics;
 
 public class Lab_01_NoMainMethod {
 //      There is no main method in the following program.So there is
