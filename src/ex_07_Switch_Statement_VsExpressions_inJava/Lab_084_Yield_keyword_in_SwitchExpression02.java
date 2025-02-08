@@ -1,0 +1,4 @@
+package ex_07_Switch_Statement_VsExpressions_inJava;
+
+public class Lab_084_Yield_keyword_in_SwitchExpression02 {
+}
